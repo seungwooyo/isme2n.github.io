@@ -9,5 +9,4 @@ tags: tool nodejs react-native
 
 ## 
 
-첫 게시물
 
